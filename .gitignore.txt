@@ -1,0 +1,11 @@
+# Ignore NetBeans and build folders
+build/
+dist/
+nbproject/private/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore database files (optional)
+*.db
+*.sqlite
