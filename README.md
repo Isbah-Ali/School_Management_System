@@ -1,7 +1,7 @@
-PROJECT: SCHOOL MANAGEMENT SYSTEM 
+**PROJECT: SCHOOL MANAGEMENT SYSTEM**
 This is a desktop application built using Java (Swing GUI) in NetBeans IDE. It demonstrates my skills in Java programming, Object-oriented programming, database connectivity (JDBC), and software design patterns.
 
-Technologies Used:
+**Technologies Used:**
 Java : Core Programming Language
 Netbeans : IDE
 Swimg : Desktop GUI Components 
@@ -9,14 +9,14 @@ MYSQL : Database
 JDBC : For Database Connectivity
 
 
-FEATURES:
+**FEATURES:**
 * Registers the student
 * Student portal which displays results, extra services, notices and allows to send requests for different purpose to admin.
 * Teacher portal where teacher uploqad marks, and view notices.
 * Admin portal where admin can add notices and handles requests of students by approving or rejecting them.
 * All of the data is stored in database for effecient handling.
 
-DESIGN PATTERNS USED:
+**DESIGN PATTERNS USED:**
 * Singleton Pattern
 * Factory Pattern
 * Observer Pattern
